@@ -1,8 +1,0 @@
-d:\Projects\Acan\build\Debug\Acan.XML
-d:\Projects\Acan\build\Debug\Acan.exe
-d:\Projects\Acan\build\Debug\Acan.pdb
-d:\Projects\Acan\obj\Debug\ResolveAssemblyReference.cache
-d:\Projects\Acan\obj\Debug\Acan.exe
-d:\Projects\Acan\obj\Debug\Acan.pdb
-d:\Projects\Acan\build\Debug\FSharp.Core.pdb
-d:\Projects\Acan\build\Debug\FSharp.Core.xml
