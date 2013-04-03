@@ -15,3 +15,5 @@ Build
 Refs
 =====
 name from Acanthodii, a kind of fish (hello fish shell :P)
+
+https://git.gnome.org/browse/gnome-terminal/
