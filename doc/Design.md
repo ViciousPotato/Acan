@@ -12,7 +12,9 @@
 
   `console2` seems to uses Windows CMD.exe as host
 
-    we can see that from Task manager and *ConsoleView.cpp* which uses `CreateProcess` and `WriteProcessMemory`
+     we can see that from Task manager and *ConsoleView.cpp* which uses `CreateProcess` and `WriteProcessMemory`
+
+  `PoshConsole` stands in front of *powershell* it seems
 
 ## Refs
 
