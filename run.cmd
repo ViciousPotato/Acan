@@ -1,0 +1,1 @@
+start build\Debug\Acan.exe -wo build\Debug
